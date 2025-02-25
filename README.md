@@ -1,13 +1,12 @@
-## Welcome to My GitHub Profile 👋
+# Welcome to My GitHub Profile 👋
 
-### 👩 About Me 
+## 👩 About Me 
 
 Hello! 👋 I'm a dedicated, creative, and resourceful person, recently graduated from a QA Engineer course.
 
 I have a proven ability to adapt and learn quickly, even in high-pressure situations. Through working on various projects, I’ve gained valuable experience and developed a thorough understanding of different tools and platforms. I continuously strive to grow by refining my skills and abilities. Feel free to explore my work across six repositories, which showcase my dedication and proficiency.**
 
-___
-### 👩‍💻 Projects:
+## 👩‍💻 Projects:
 
 ✅ **shop.demoblaze.com-Defect-Reports**: This repository contains a collection of defect reports.
 
@@ -17,8 +16,7 @@ ___
 
 ✅ **Help-a-Paw-Android-Test-Cases**: This repository serves as a showcase of test cases for mobile application.
 
-___
-### 🎓 Education
+## 🎓 Education
 #### Quality Assurance Engineer at JQA Academy Group
 
 ✔ Fundamentals of Quality Assurance.
@@ -29,8 +27,7 @@ ___
 
 ✔ Working with tools and techniques related to the role processes.
 
-___
-### 🚀 Skills
+## 🚀 Skills
 
 • Design of test cases and execution
 
@@ -45,8 +42,8 @@ ___
 • Trello
 
 • Confluence
-___
-### 🌐 Interests
+
+## 🌐 Interests
 
  🌏 Travel
  🍳 Cooking
