@@ -2,7 +2,7 @@
 
 ## 👩 About Me 
 
-Hello! 👋 I'm a dedicated, creative, and resourceful person, recently graduated from a QA Engineer course.
+Hello! 👋  I’m currently enrolled in a QA academy. I'm working on diverse projects, utilizing a variety of tools, and am constantly expanding my skill set.
 
 I have a proven ability to adapt and learn quickly, even in high-pressure situations. Through working on various projects, I’ve gained valuable experience and developed a thorough understanding of different tools and platforms. I continuously strive to grow by refining my skills and abilities. Feel free to explore my work across six repositories, which showcase my dedication and proficiency.**
 
