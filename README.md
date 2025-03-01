@@ -2,9 +2,9 @@
 
 ## 👩 About Me 
 
-Hello! 👋  I’m currently enrolled in a QA academy. I'm working on diverse projects, utilizing a variety of tools, and am constantly expanding my skill set.
+Hi, I’m a passionate learner and detail-oriented person. My unwavering commitment to quality content drives me to seek new challenges that will expand my knowledge and skills.
 
-I have a proven ability to adapt and learn quickly, even in high-pressure situations. Through working on various projects, I’ve gained valuable experience and developed a thorough understanding of different tools and platforms. I continuously strive to grow by refining my skills and abilities. Feel free to explore my work across six repositories, which showcase my dedication and proficiency.**
+I’m currently enrolled in a QA academy. I'm working on diverse projects, utilizing a variety of tools, and am constantly expanding my skill set. Feel free to explore my work across six repositories, which showcase my dedication and proficiency.
 
 ## 👩‍💻 Projects:
 
